@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 export function Attendees({attendees, addAttendee, removeAttendee, hidePreview}) {
     return (

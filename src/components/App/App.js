@@ -7,7 +7,7 @@ const initGroups = [
     id: 1,
     day: 'Mon',
     hour: '8:00',
-    trainer: 'Agata',
+    trainer: 'Halina',
     level: 0,
     list: [
       {
@@ -31,21 +31,21 @@ const initGroups = [
     id: 2,
     day: 'Mon',
     hour: '9:00',
-    trainer: 'Agata',
+    trainer: 'Halina',
     level: 1,
     list: [
       {
-        name: 'Ania',
+        name: 'Zdzisia',
         surname: 'X',
         phone: 227
       },
       {
-        name: 'Gosia',
+        name: 'Asia',
         surname: 'Y',
         phone: 228
       },
       {
-        name: 'Kasia',
+        name: 'Kazia',
         surname: 'z',
         phone: 229
       }
@@ -55,21 +55,21 @@ const initGroups = [
     id: 3,
     day: 'Mon',
     hour: '10:00',
-    trainer: 'Agata',
+    trainer: 'Halina',
     level: 2,
     list: [
       {
-        name: 'Ania',
+        name: 'Czesia',
         surname: 'X',
         phone: 337
       },
       {
-        name: 'Gosia',
+        name: 'Basia',
         surname: 'Y',
         phone: 338
       },
       {
-        name: 'Kasia',
+        name: 'Zosia',
         surname: 'z',
         phone: 339
       }
@@ -79,15 +79,15 @@ const initGroups = [
     id: 4,
     day: 'Mon',
     hour: '11:00',
-    trainer: 'Agata',
+    trainer: 'Halina',
     level: 3,
     list: []
   },
   {
     id: 5,
-    day: 'Mon',
+    day: 'Tue',
     hour: '11:00',
-    trainer: 'Agata',
+    trainer: 'Grzegorz',
     level: 3,
     list: []
   }

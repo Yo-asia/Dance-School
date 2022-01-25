@@ -1,0 +1,44 @@
+.container {
+    display: grid;
+    gap: 5pt;
+    margin: 5pt;
+}
+
+.containerInput {
+    display: grid;
+    gap: 5pt;
+    grid-column: span 5;
+}
+.containerInputAttendee {
+    display: grid;
+    gap: 5pt;
+    grid-column: span 4;
+}
+.item {
+    background-color: lightcyan;
+    border: solid 1pt lightslategrey;
+    border-radius: 5pt;
+    min-height: 30pt;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.headerItem {
+    grid-row: 1;
+    font-weight: bold;
+    color: white;
+    background-color: teal;
+    border: none;
+}
+
+.rowItem {
+    font-weight: bold;
+}
+
+.input {
+    border: solid 1pt lightslategrey;
+    height: 30pt;
+    grid-row: 1;
+    justify-self: stretch;
+  }

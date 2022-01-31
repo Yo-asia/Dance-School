@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Dance-School/static/css/main.39c53401.chunk.css",
+    "main.js": "/Dance-School/static/js/main.8aba6fd4.chunk.js",
+    "main.js.map": "/Dance-School/static/js/main.8aba6fd4.chunk.js.map",
+    "runtime-main.js": "/Dance-School/static/js/runtime-main.ded102f2.js",
+    "runtime-main.js.map": "/Dance-School/static/js/runtime-main.ded102f2.js.map",
+    "static/js/2.c64ebab8.chunk.js": "/Dance-School/static/js/2.c64ebab8.chunk.js",
+    "static/js/2.c64ebab8.chunk.js.map": "/Dance-School/static/js/2.c64ebab8.chunk.js.map",
+    "index.html": "/Dance-School/index.html",
+    "static/css/main.39c53401.chunk.css.map": "/Dance-School/static/css/main.39c53401.chunk.css.map",
+    "static/js/2.c64ebab8.chunk.js.LICENSE.txt": "/Dance-School/static/js/2.c64ebab8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ded102f2.js",
+    "static/js/2.c64ebab8.chunk.js",
+    "static/css/main.39c53401.chunk.css",
+    "static/js/main.8aba6fd4.chunk.js"
+  ]
+}
